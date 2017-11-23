@@ -1,0 +1,38 @@
+<<<<<< MESSAGES TO THE SLIDESHOW >>>>>>
+
+
+
+Slides: 800X440
+
+Font: Roboto Medium @ a1c3b6ff
+
+Logos: 512x512
+
+
+
+>> Slide 1
+
+Welcome to Kibojoe Linux
+Kibojoe is created with "Manjaro-Tools" and maintained collaboratively
+During the installation, this slideshow will provide a quick introduction...
+
+>> Slide 2
+
+Kibojoe Linux is Manjaro Linux re-spin with Joe Window Manager (JWM)
+JWM is a light-weight window manager to run on the X window system...
+
+>> Slide 3
+
+It has all the convenience to be used in day-to-day
+Kibojoe is minimal, fast and elegant...
+
+>> Slide 4
+
+Kibojoe has several CLI tools
+The Pacli-SysClean to manage your packages and the JWMConf to work with JWM settings files
+Also has other CLI tools...
+
+>> Slide 5
+Thanks for choosing Kibojoe and we hope you enjoy it-
+We are glad to help if you have any questions or problems, contact us in our forum and IRC
+Enjoy freedom, use and abuse!

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="33"
+   height="33"
+   viewBox="0 0 33 33"
+   sodipodi:docname="manjaro.i686.svg"
+   inkscape:version="0.92.1 unknown">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 H 1"
+       is_visible="true"
+       id="path-effect4196"
+       effect="skeletal" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 H 1"
+       is_visible="true"
+       id="path-effect4205"
+       effect="skeletal" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 H 1"
+       is_visible="true"
+       id="path-effect4214"
+       effect="skeletal" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="3.6181643"
+     inkscape:cx="-83.560507"
+     inkscape:cy="30.227573"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="matrix(0.47002806,0,0,0.47002806,0.95480104,-107.55313)"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="fill:#ff9000;fill-opacity:1;stroke:none">
+    <g
+       id="g3249"
+       style="display:inline;fill:#ff9000;fill-opacity:1;stroke:none;enable-background:new"
+       transform="matrix(0.49928544,0,0,0.49928544,-46.771139,152.10271)">
+      <g
+         id="g4221"
+         style="display:inline;fill:#ff9000;fill-opacity:1;stroke:none"
+         transform="matrix(0.56525228,0,0,0.56525228,81.119769,145.30635)">
+        <path
+           transform="matrix(0.93749996,0,0,0.93749996,22.213769,21.975927)"
+           inkscape:connector-curvature="0"
+           id="path4194"
+           d="M 18.539062,18.978516 V 231.02148 H 80.126953 V 80.568359 H 154.91406 V 18.978516 Z m 151.333988,0 V 231.02148 h 61.58789 V 18.978516 Z M 94.205078,94.644531 V 231.02148 H 154.91406 V 94.644531 Z"
+           style="fill:#ff9000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.11339804,0,0,0.11339804,-0.09711005,245.63717)"
+       style="display:inline;fill:#ff9000;fill-opacity:1;stroke:none;enable-background:new"
+       id="g3302" />
+  </g>
+</svg>
